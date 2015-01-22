@@ -1,0 +1,12 @@
+/Users/mgp25/Projects/extract/extract/obj/x86/Release/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/mgp25/Projects/extract/extract/bin/Release/extract.exe.mdb
+/Users/mgp25/Projects/extract/extract/bin/Release/extract.exe
+/Users/mgp25/Projects/extract/extract/obj/x86/Release/extract.exe
+/Users/mgp25/Projects/extract/extract/obj/x86/Release/extract.exe.mdb
+/Users/mgp25/Projects/extract/extract/bin/Release/Renci.SshNet.dll
+/Users/mgp25/Desktop/extract/extract/obj/x86/Release/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/mgp25/Desktop/extract/extract/bin/Release/extract.exe.mdb
+/Users/mgp25/Desktop/extract/extract/bin/Release/extract.exe
+/Users/mgp25/Desktop/extract/extract/obj/x86/Release/extract.exe
+/Users/mgp25/Desktop/extract/extract/obj/x86/Release/extract.exe.mdb
+/Users/mgp25/Desktop/extract/extract/bin/Release/Renci.SshNet.dll
